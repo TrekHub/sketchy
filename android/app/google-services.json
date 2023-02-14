@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "988977219857",
+    "project_id": "sketchy-flutter",
+    "storage_bucket": "sketchy-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988977219857:android:e87d5d9da0b2576794a4b0",
+        "android_client_info": {
+          "package_name": "com.example.sketch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988977219857-bdu6ao4dgtm7qurn72hanepkjkh207ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdThRnBpi9_-sEgLgU8MlmwiflYu_kWDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988977219857-bdu6ao4dgtm7qurn72hanepkjkh207ig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988977219857-9qkq1tqh71qfdpipbh41bqpq1mjco31a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sketch"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
